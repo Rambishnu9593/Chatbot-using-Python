@@ -2,6 +2,7 @@
 Welcome to ChatCare, a simple and interactive customer support chatbot built using Python, powered by OpenRouter's AI models and hosted locally via Streamlit. 🚀
 
 
+
 # 🧠 What It Does
 
 This project allows users to:
@@ -16,12 +17,14 @@ This project allows users to:
 
 
 
+
 # 🔧 Tech Stack
 | Tool          | Usage                          |
 | ------------- | ------------------------------ |
 | 🐍 Python     | Backend logic                  |
 | 🌐 Streamlit  | Frontend UI and local hosting  |
 | 🔑 OpenRouter | AI Chat API using free API key |
+
 
 
 
@@ -57,6 +60,7 @@ Visit http://localhost:8501 and start chatting! 💬🤖
 
 
 
+
 # 🧾 Features
 
 👨‍💻 Custom name:ChatCare
@@ -71,13 +75,12 @@ Visit http://localhost:8501 and start chatting! 💬🤖
 
 
 
+
 # 🤝 Acknowledgments
 
 1.Thanks to OpenRouter for their free and flexible API access 🪄
 
 2.Built with ❤️ using Streamlit
-
-
 
 # 📬 Contact
 
