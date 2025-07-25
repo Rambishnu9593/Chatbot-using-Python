@@ -1,5 +1,5 @@
 ﻿# 🤖 Chatbot-using-Python
-Welcome to Rambishnu ChatCare, a simple and interactive customer support chatbot built using Python, powered by OpenRouter's AI models and hosted locally via Streamlit. 🚀
+Welcome to ChatCare, a simple and interactive customer support chatbot built using Python, powered by OpenRouter's AI models and hosted locally via Streamlit. 🚀
 
 
 # 🧠 What It Does
@@ -27,22 +27,25 @@ This project allows users to:
 
 # ⚙️ How to Run It Locally
 
->> Install dependencies:
+# Install dependencies:
+
 pip install openai streamlit
 
->> Get your Free API Key from OpenRouter:
 
->> 1.Visit 🌍 https://openrouter.ai
+# Get your Free API Key from OpenRouter:
 
->> 2.Sign in and go to your API Key page
+1.Visit 🌍 https://openrouter.ai
+
+2.Sign in and go to your API Key page
 
 3.Copy your free API Key
 
 
 # Paste your API Key in the script:
 
->> Replace this line:
->> api_key="sk-or-v1-xxxxxxxxxxxxxxxxxxxxxxxxxx"
+Replace this line:
+
+api_key="sk-or-v1-xxxxxxxxxxxxxxxxxxxxxxxxxx"
 
 
 # Run the app:
