@@ -36,7 +36,7 @@ Open the browser:
 Visit http://localhost:8501 and start chatting! 💬🤖
 
 🧾 Features
-👨‍💻 Custom name: Rambishnu ChatCare
+👨‍💻 Custom name:ChatCare
 💡 User input via chat box
 📜 Chat history using st.session_state
 🎯 Fast and responsive using OpenRouter's deepseek-r1-0528 model
