@@ -30,12 +30,12 @@ This project allows users to:
 
 # ⚙️ How to Run It Locally
 
-# Install dependencies:
+# 1.Install dependencies:
 
 pip install openai streamlit
 
 
-# Get your Free API Key from OpenRouter:
+# 2.Get your Free API Key from OpenRouter:
 
 1.Visit 🌍 https://openrouter.ai
 
@@ -44,19 +44,20 @@ pip install openai streamlit
 3.Copy your free API Key
 
 
-# Paste your API Key in the script:
+# 3.Paste your API Key in the script:
 
 Replace this line:
 
 api_key="sk-or-v1-xxxxxxxxxxxxxxxxxxxxxxxxxx"
 
 
-# Run the app:
+# 4.Run the app:
 streamlit run chatbot.py
 
 
-# Open the browser:
+# 5.Open the browser:
 Visit http://localhost:8501 and start chatting! 💬🤖
+
 
 
 
@@ -76,11 +77,14 @@ Visit http://localhost:8501 and start chatting! 💬🤖
 
 
 
+
 # 🤝 Acknowledgments
 
 1.Thanks to OpenRouter for their free and flexible API access 🪄
 
 2.Built with ❤️ using Streamlit
+
+
 
 # 📬 Contact
 
