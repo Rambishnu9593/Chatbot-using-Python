@@ -31,9 +31,8 @@ This project allows users to:
 pip install openai streamlit
 
 >> Get your Free API Key from OpenRouter:
-1.Visit 🌍 https://openrouter.ai
-
-2.Sign in and go to your API Key page
+>> 1.Visit 🌍 https://openrouter.ai
+>> 2.Sign in and go to your API Key page
 
 3.Copy your free API Key
 
